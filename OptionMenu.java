@@ -101,7 +101,7 @@ public class OptionMenu extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent ae) {
 				{
-					quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
+				   quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
 				}
 			}
 		});
@@ -110,7 +110,7 @@ public class OptionMenu extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				{
-					quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
+				   quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
 				}
 			}
 		});
@@ -119,7 +119,7 @@ public class OptionMenu extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				{
-					quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
+				   quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
 				}
 			}
 		});
@@ -128,7 +128,7 @@ public class OptionMenu extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				{
-					quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
+				   quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
 				}
 			}
 		});
@@ -137,7 +137,7 @@ public class OptionMenu extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				{
-					quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
+				   quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
 				}
 			}
 		});
@@ -146,7 +146,7 @@ public class OptionMenu extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				{
-					quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
+				   quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
 				}
 			}
 		});
@@ -155,7 +155,7 @@ public class OptionMenu extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				{
-					quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
+				   quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
 				}
 			}
 		});
@@ -164,7 +164,7 @@ public class OptionMenu extends JFrame implements ActionListener {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				{
-					quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
+				   quantOfProduct = Integer.parseInt(JOptionPane.showInputDialog("Please insert quantity"));
 				}
 			}
 		});
